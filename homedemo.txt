@@ -1,2 +1,7 @@
 This is new HomeDemo file.
+<<<<<<< HEAD
 this is 2nd modification
+=======
+this is 2nd modification
+this is branch update code.
+>>>>>>> main
